@@ -1,2 +1,2 @@
-# kivanc
+# derste yapılanlar
 yazilim
