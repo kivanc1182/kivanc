@@ -1,2 +1,2 @@
 # derste yapılanlar
-yazilim
+yazilimdewdw
